@@ -2,27 +2,27 @@
 
 - Frontend Development:
 
-🚀 React.js | Next.js: I have a strong command of React.js and Next.js to build dynamic and engaging user interfaces.
+  - 🚀 React.js | Next.js: I have a strong command of React.js and Next.js to build dynamic and engaging user interfaces.
 
-💅 SCSS: I utilize SCSS to create beautifully styled and maintainable CSS, ensuring a seamless user experience.
+  - 💅 SCSS: I utilize SCSS to create beautifully styled and maintainable CSS, ensuring a seamless user experience.
 
-🔀 TypeScript: I bring the benefits of TypeScript to my frontend projects, enhancing code quality and catching errors early on.
+  - 🔀 TypeScript: I bring the benefits of TypeScript to my frontend projects, enhancing code quality and catching errors early on.
 
 
 - Backend Development:
 
-🌐 Node.js: I leverage the power of Node.js to develop efficient and scalable server-side applications.
+  - 🌐 Node.js: I leverage the power of Node.js to develop efficient and scalable server-side applications.
 
-🎯 .NET Framework | C#: I have a solid understanding of the .NET Framework and C#, enabling me to create robust backend solutions.
+  - 🎯 .NET Framework | C#: I have a solid understanding of the .NET Framework and C#, enabling me to create robust backend solutions.
 
 
 - Version Control and Deployment:
 
-🤝 Git | GitHub: I am well-versed in using Git and GitHub for version control, collaborating with teams and managing project repositories effectively.
+  - 🤝 Git | GitHub: I am well-versed in using Git and GitHub for version control, collaborating with teams and managing project repositories effectively.
 
-🐳 Docker: I have experience with Docker, allowing me to containerize applications and streamline the deployment process.
+  - 🐳 Docker: I have experience with Docker, allowing me to containerize applications and streamline the deployment process.
 
-☁️ Azure Cloud: I utilize Azure for deploying application containers to the cloud, ensuring seamless scalability and availability.
+  - ☁️ Azure Cloud: I utilize Azure for deploying application containers to the cloud, ensuring seamless scalability and availability.
 
 Throughout my journey as a software developer, I have worked with various other technologies and tools, continuously expanding my skill set and adapting to new challenges.
 
@@ -43,4 +43,15 @@ onlineAuction is an auctioning website i developed for a client on Fiverr, where
 - [**NigTrak**](https://github.com/onukwilip/NigTrak):
 This is a real-time tracking web application i alongside fellow team members developed for the organization i currently work for. It is an MVP application which tracks registered personnel wherever they are in the world via the mobile application installed on their devices. Technologies involved are React Js, MQTT, Google maps API, Node Js, MSSQL, etc
 
-## RECENT ACCOMPLISHMENTS
+## RECENT ACCOMPLISHMENTS!
+- Developed a payment/vending web application for current organization where their customers can vend and pay for Energy/power using technologies like Paystack, Remita, React Js.
+- Developed a real-time tracking software for current organization which tracks registered personnel around the world in real-time via the application installed on their device using technologies like MQTT, React Js, Google maps etc
+- Founded a product called GOPack which helps developers bundle their projects into static files using pre-written webpack configuration in order to reduce plagiarism and suite production ready environments.
+
+## CONNECT WITH ME!
+- [GitHub](https://github.com/onukwilip)
+- [Linkedin](https://www.linkedin.com/in/prince-onukwili-a82143233/) 
+
+## HIRE ME!
+- [Upwork](https://www.upwork.com/freelancers/~01e414823e14f1cdde)
+- [Fiverr](https://www.fiverr.com/go_industries)
