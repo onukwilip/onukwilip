@@ -8,7 +8,7 @@
 
   - 🔀 **TypeScript**: I bring the benefits of TypeScript to my frontend projects, enhancing code quality and catching errors early on.
  
-  - 🌐 **Redux**: I leverage Redux alongside React & Next Js to manage state globally across my application.
+  - 🌐 **Redux**: I leverage Redux alongside React & Next Js to manage state globally across my applications.
  
   - 🛠 **Service workers**: I implement Service workers in the browser to create Progressive web apps, client-side caching, web push-notifications and background workers.
 
@@ -24,7 +24,7 @@
 
   - 🤝 **Git | GitHub**: I am well-versed in using Git and GitHub for version control, collaborating with teams and managing project repositories effectively.
 
-  - 🔁 **GitHub Actions**: I practice CI/CD when working alongside teammates and for seamless integration of my features to the master branch using GitHub actiona and workflows
+  - 🔁 **GitHub Actions**: I practice CI/CD when working alongside teammates and for seamless integration of my features to the master branch using GitHub actions and workflows
  
   - 🤼 **Jira**: I follow Agile principles and practice Scrum using Jira, for efficient project and sprint planning.
 
