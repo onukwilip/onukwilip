@@ -40,7 +40,7 @@
 
   - 🐳 **Docker | Kubernetes**: I have experience with Docker and Kubernetes, allowing me to containerize applications, orchestrate and manage said containers, thereby streamlining the deployment process.
 
-  - ☁️ **Google Cloud Run**: I utilize Azure for deploying application containers to the cloud, ensuring seamless scalability and availability.
+  - ☁️ **Google Cloud Platform**: I utilize GCP for deploying application containers to the cloud, managing Virtual machines leveraging services like Compute engine,Cloud run, etc...ensuring seamless scalability and availability.
 
 Throughout my journey as a software developer, I have worked with various other technologies and tools, continuously expanding my skill set and adapting to new challenges.
 
