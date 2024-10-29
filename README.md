@@ -82,7 +82,7 @@ This is a real-time tracking web application i alongside fellow team members dev
 
 ## RECENT ACCOMPLISHMENTS!
 - Had the opportunity to contribute to the Freecodecamp project, thereby leveling up in the Hacktoberfest program. I collaborated with others on the platform in the creation of E2E tests using Microsoft Playwright. Fixed merge conflicts by rebasing the feature branch to the main branch.
-- Co-engineered Socio Africa, an African-led social media startup, as one of its founding software engineers. Developed the server-side application using Node.js, Express.js, TypeScript, and MongoDB for robust API endpoints and databases.
+- Co-engineered Socio Africa, an African-led social media startup, as one of its founding software engineers. Developed the server-side application using Node.js, Express.js, TypeScript, and MongoDB for robust API endpoints and databases. Contributed to boosting customer turnout on the platform, achieving over 500+ customers within the first-month post-launch.
 - Won the award of the most-innovative staff during my previous role as a software developer.
 
 ## CONNECT WITH ME!
