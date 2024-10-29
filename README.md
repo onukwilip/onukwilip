@@ -1,4 +1,4 @@
-👋 Hello! Welcome to my GitHub profile! I'm Prince Onukwili, a dedicated software developer with over 2 years of experience. I'm proficient in both **Agile** and **DevOps** environments specializing in frontend and backend app development, utilizing an array of technologies to create robust and scalable applications. Here's a glimpse into my skill set:
+👋 Hello! Welcome to my GitHub profile! I'm Prince Onukwili, a dedicated software developer with over 3 years of experience. I'm proficient in both **Agile** and **DevOps** environments specializing in frontend and backend app development, utilizing an array of technologies to create robust and scalable applications. Here's a glimpse into my skill set:
 
 - Frontend Development:
 
