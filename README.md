@@ -49,11 +49,16 @@ Throughout my journey as a software developer, I have worked with various other 
 - [**Socio Africa**](https://www.socio.africa):
 Co-engineered an African-led social media platform, Socio Africa, at Socio Technologies. As the lead backend engineer, I built and scaled the server-side infrastructure using Node.js, Express.js, and TypeScript. The platform is divided into microservices, including authentication and a newsfeed service. My key contributions include:
 🛠️ Developed API endpoints and integrated MongoDB for seamless data storage.
+
 🖼️ Utilized Cloudinary for storing and managing images from user profiles, communities, and posts.
 🔒 Implemented secure user authentication with access and refresh tokens.
+
 ✍️ Created algorithms for users to create, edit, comment, and react to posts.
+
 🚀 Optimized performance with a pagination algorithm for loading posts and communities efficiently.
+
 🌐 Enabled users to create and engage in topic-based communities, sharing posts within groups.
+
 ⚡ Improved database operations with indexing, reducing query times and latency.
 
 - [**GO.Charity**](https://github.com/gocharity):
