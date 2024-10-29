@@ -45,8 +45,23 @@
 Throughout my journey as a software developer, I have worked with various other technologies and tools, continuously expanding my skill set and adapting to new challenges.
 
 ## PROJECTS I'M MOST PROUD OF
-- [**OnlineAuction**](https://github.com/onukwilip/onlineAuction):
-Crafted an online auction platform using Next Js enabling users to list, bid, and receive email notifications for expiring products and highest bids. Implemented a CI/CD workflow which deploys the app container to Google Cloud Run serverless platform. Made the web app a progressive web app which can not only be installed on a user's device, but also supports caching of client-side resources e.g. pages, images, etc, Web notifications (when a user gets out-bid) using service workers and indexedDb and offline support.
+
+- [**Socio Africa**](https://www.socio.africa):
+Co-engineered an African-led social media platform, Socio Africa, at Socio Technologies. As the lead backend engineer, I built and scaled the server-side infrastructure using Node.js, Express.js, and TypeScript. The platform is divided into microservices, including authentication and a newsfeed service. My key contributions include:
+🛠️ Developed API endpoints and integrated MongoDB for seamless data storage.
+🖼️ Utilized Cloudinary for storing and managing images from user profiles, communities, and posts.
+🔒 Implemented secure user authentication with access and refresh tokens.
+✍️ Created algorithms for users to create, edit, comment, and react to posts.
+🚀 Optimized performance with a pagination algorithm for loading posts and communities efficiently.
+🌐 Enabled users to create and engage in topic-based communities, sharing posts within groups.
+⚡ Improved database operations with indexing, reducing query times and latency.
+
+- [**GO.Charity**](https://github.com/gocharity):
+One of my notable projects is the GO.Charity platform, where I architected a microservices-based system deployed on a Google Kubernetes Engine (GKE) Cluster. This involved deploying each microservice on Pods within the Cluster, implementing monitoring with Prometheus and Grafana, and managing infrastructure as code (IaC) with Terraform.
+
+- [**Online Auction**](https://github.com/onukwilip/onlineAuction):
+Furthermore, I developed an online auction platform that leverages the power of serverless computing on GCP. The application was built as a progressive web app (PWA), featuring offline support, client-side caching, and web notifications. I implemented a CI/CD pipeline that deploys
+the Dockerized app to Google Cloud Run.
 
 - [**GOPack**](https://github.com/onukwilip/gopack): 
 GOPack is an open-source JavaScript library built using Node Js, webpack, and babel. It was developed to help javascript developers unfamiliar with webpack bundle their projects into static files using pre-written webpack configuration and pre-installed loaders.
@@ -60,7 +75,7 @@ This is a real-time tracking web application i alongside fellow team members dev
 
 ## RECENT ACCOMPLISHMENTS!
 - Had the opportunity to contribute to the Freecodecamp project, thereby leveling up in the Hacktoberfest program. I collaborated with others on the platform in the creation of E2E tests using Microsoft Playwright. Fixed merge conflicts by rebasing the feature branch to the main branch.
-- Developed a 3D web editor leveraging tools like Three Js, React three fiber and drei. The website mimmiks an ecommerce shop by giving the users ability to edit a product to their taste on an online editor, giving them a 3 dimensional preview of how the product would look like when ordered.
+- Co-engineered Socio Africa, an African-led social media startup, as one of its founding software engineers. Developed the server-side application using Node.js, Express.js, TypeScript, and MongoDB for robust API endpoints and databases.
 - Won the award of the most-innovative staff during my previous role as a software developer.
 
 ## CONNECT WITH ME!
