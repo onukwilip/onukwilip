@@ -39,3 +39,11 @@ I reduced the need to manually redeploy updates on the cluster by creating CI/CD
 I reduced the need to manually create the resources on the Cloud and redeploy the applications by using GitHub Actions CI/CD pipelines and Terraform to automate the creation of the resources.
 
 **Here's the case study -** https://drive.google.com/file/d/18Kznai48jvzoiP1hTi6scqvtF9Wm-PfX/view?usp=drivesdk
+
+# Connect with me
+- [GitHub](https://github.com/onukwilip)
+- [Linkedin](https://www.linkedin.com/in/prince-onukwili-a82143233/) 
+- [Website](https://prince-onuk.vercel.app/) 
+
+# Hire me!
+- [Upwork](https://www.upwork.com/freelancers/~01e414823e14f1cdde)
