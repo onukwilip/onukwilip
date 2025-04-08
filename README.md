@@ -18,16 +18,24 @@ I also scale applications/infrastructure across multiple regions/availability zo
 
 I automated and sped up the deployment of each microservice application on Azure Function Apps, seeding and migration of the SQL databases using Azure DevOps CI/CD pipelines
 
+**Here's a case study explaining what I did in detail and it's result -** https://drive.google.com/file/d/1TD-ZP3M9aRIKnO-x2f_tG77EVW6US3FH/view?usp=sharing
+
 ✅I deployed a startup that scaled to over 23,000+ active users within months. 
 
 I reduced Cloud costs from $900/month to $50/month by migrating the platform to DigitalOcean VM instance, deploying their applications on the VM using Coolify web server, configuring the DNS, reverse proxy and networking. 
 
 I set up custom Grafana dashboards to monitor app performance. Metrics were retrieved from Prometheus, and I created alert rules and notification channels to notify the team when potential issues were discovered.
 
+**Here's the case study -** https://drive.google.com/file/d/1Z5pysnLeY3JpIZ6MPlS-mAKgA2EfrXr4/view?usp=drive_link
+
 ✅I managed a complex microservice platform by deploying into Docker containers on Google Kubernetes Engine. 
 
 I reduced the need to manually redeploy updates on the cluster by creating CI/CD pipelines to auto-redeploy application updates by publishing the apps into Docker containers re-deploying them on the Kubernetes Cluster using GitHub Actions CI/CD pipelines.
 
+**Here's the case study -** https://prince-onuk.vercel.app/achievements?achievement=gc
+
 ✅I ensured a crowd-funding platform could handle traffic surges easily by implementing auto-scaling and load balancing using Google Cloud Managed Instance Groups
 
 I reduced the need to manually create the resources on the Cloud and redeploy the applications by using GitHub Actions CI/CD pipelines and Terraform to automate the creation of the resources.
+
+**Here's the case study -** https://drive.google.com/file/d/18Kznai48jvzoiP1hTi6scqvtF9Wm-PfX/view?usp=drivesdk
